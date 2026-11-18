@@ -1,0 +1,6 @@
+{
+  "name": "Virasat Setu",
+  "description": "Digital public infrastructure bridging death registration records with financial institutions to help families discover unclaimed assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
